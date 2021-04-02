@@ -1,4 +1,4 @@
-package linearSearch;
+package com.ks.learning.linearSearch;
 
 public class LinearSearch {
 

@@ -1,4 +1,4 @@
-package linearSearch;
+package com.ks.learning.linearSearch;
 
 public class Main {
     public static void main(String[] args){
